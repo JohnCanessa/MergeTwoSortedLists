@@ -12,7 +12,7 @@ the current version of the requirements.
 If interested in my comments and approach, I invite you
 to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/05/11/merge-two-sorted-lists/
 
 Remember that the best way to learn is to read and experiment.
 
